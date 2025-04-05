@@ -1,0 +1,2 @@
+clear
+display "Hello, GitHub!"

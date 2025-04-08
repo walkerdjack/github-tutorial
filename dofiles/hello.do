@@ -1,2 +1,6 @@
 clear
 display "Hello, GitHub!"
+
+! git add dofiles/hello.do  // Add file to git staging
+! git commit -m "Add hello.do script"  // Commit file with message
+! git push  // Push to GitHub
